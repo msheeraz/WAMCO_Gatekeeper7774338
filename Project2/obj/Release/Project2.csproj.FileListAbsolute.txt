@@ -1,0 +1,55 @@
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\Project2.exe.config
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\Project2.exe
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\Project2.pdb
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\bin\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Project2.csproj.ResolveComReference.cache
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Project2.csproj.GenerateResource.Cache
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Project2.exe
+C:\Users\Azizi\Desktop\works\SDK\activex project\Sample Source Code - C#\Project2\obj\Release\Project2.pdb
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\Project2.exe.config
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Project2.csproj.ResolveComReference.cache
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Project2.exe
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Project2.pdb
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\Project2.exe
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\Project2.pdb
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\Project2.csproj.GenerateResource.Cache
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\bin\Release\MySql.Data.dll
+C:\Users\641\Desktop\Fingertec\OCX\Sample Source Code - C#\Project2\obj\Release\WindowsFormsApplication1.Home.resources
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\Project2.exe.config
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Project2.csproj.ResolveComReference.cache
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Project2.exe
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Project2.pdb
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\Project2.exe
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\Project2.pdb
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\MySql.Data.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\Interop.BioBridgeSDKv3.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\Interop.VBScript_RegExp_55.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\bin\Release\AxInterop.BioBridgeSDKv3.dll
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\WindowsFormsApplication1.Home.resources
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\641\Documents\visual studio 2015\Projects\FingerTec\Gatekeeper - Final\Project2\obj\Release\Project2.csproj.GenerateResource.Cache
